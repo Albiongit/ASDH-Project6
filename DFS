@@ -48,7 +48,7 @@ int main()
     g.addEdge(2, 3);
     g.addEdge(3, 3);
 
-    cout << "Following is Depth First Traversal : ";
+    cout << "Depth First Traversal : ";
       
     g.DFS(2);
 
